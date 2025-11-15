@@ -33,7 +33,7 @@ Supports adding, updating, retrieving, and deleting items from an in-memory stor
 
 ```bash
 git clone https://github.com/raxku2/Inventory_app_api.git
-cd REPO
+cd Inventory_app_api
 ```
 
 ---
